@@ -47,6 +47,6 @@ npm run build
 npm run deploy
 ```
 
-## TON Connect
+## TON Wallet
 
-Wallet connection is powered by TON Connect. The manifest is in the `public` folder — update it with your app's URL and icon before deploying.
+Supports TON wallet connection so users can link their crypto wallet directly inside the app.
